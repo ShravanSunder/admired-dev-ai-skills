@@ -1,0 +1,33 @@
+[submodule "addyosmani-agent-skills"]
+	path = addyosmani-agent-skills
+	url = https://github.com/addyosmani/agent-skills.git
+[submodule "codex-curated-skills"]
+	path = codex-curated-skills
+	url = https://github.com/openai/skills.git
+[submodule "cursor-plugins"]
+	path = cursor-plugins
+	url = https://github.com/cursor/plugins.git
+[submodule "Dimillian-Skills"]
+	path = Dimillian-Skills
+	url = https://github.com/Dimillian/Skills.git
+[submodule "getsentry-skills"]
+	path = getsentry-skills
+	url = https://github.com/getsentry/skills.git
+[submodule "mattpocock-skills"]
+	path = mattpocock-skills
+	url = https://github.com/mattpocock/skills.git
+[submodule "mitsupi-agent-stuff"]
+	path = mitsupi-agent-stuff
+	url = https://github.com/mitsuhiko/agent-stuff.git
+[submodule "obra-superpowers"]
+	path = obra-superpowers
+	url = https://github.com/obra/superpowers.git
+[submodule "readwise-skills"]
+	path = readwise-skills
+	url = https://github.com/readwiseio/readwise-skills
+[submodule "shadcn-improve"]
+	path = shadcn-improve
+	url = https://github.com/shadcn/improve.git
+[submodule "steipete-agent-scripts"]
+	path = steipete-agent-scripts
+	url = https://github.com/steipete/agent-scripts.git
