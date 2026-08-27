@@ -8,9 +8,9 @@
 
 | Path | Why | Used by (ai-tools) |
 |------|-----|--------------------|
-| `claude pr-review-toolkit/` agents (silent-failure-hunter, type-design-analyzer, comment-analyzer, pr-test-analyzer, …) | Material finding bar; false-green / silent-failure / type / test / comment lenses | [implementation-review-swarm](../my-ai-tools/shravan-dev-workflow/implementation-review-swarm.md), [spec-review-swarm](../my-ai-tools/shravan-dev-workflow/spec-review-swarm.md) |
-| `codex adverserial/adversarial-review.md` | Adversarial review lens | [implementation-review-swarm](../my-ai-tools/shravan-dev-workflow/implementation-review-swarm.md), [plan-review-swarm](../my-ai-tools/shravan-dev-workflow/plan-review-swarm.md) |
-| `codex adverserial/stop-review-gate.md` | Stop / gate before false-green | [implementation-review-swarm](../my-ai-tools/shravan-dev-workflow/implementation-review-swarm.md) |
+| `claude pr-review-toolkit/` agents (silent-failure-hunter, type-design-analyzer, comment-analyzer, pr-test-analyzer, …) | Material finding bar; false-green / silent-failure / type / test / comment lenses | [review-implementation](../my-ai-tools/shravan-dev-workflow/review-implementation.md), [spec-program-review](../my-ai-tools/shravan-dev-workflow/spec-program-review.md) |
+| `codex adverserial/adversarial-review.md` | Adversarial review lens | [review-implementation](../my-ai-tools/shravan-dev-workflow/review-implementation.md), [spec-program-review](../my-ai-tools/shravan-dev-workflow/spec-program-review.md) |
+| `codex adverserial/stop-review-gate.md` | Stop / gate before false-green | [review-implementation](../my-ai-tools/shravan-dev-workflow/review-implementation.md) |
 
 ## Preserve / avoid
 

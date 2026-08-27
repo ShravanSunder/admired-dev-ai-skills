@@ -1,14 +1,15 @@
-# implementation-review-swarm
+# review-implementation
 
-- **ai-tools path:** `/Users/shravansunder/dev/ai-tools/plugins/shravan-dev-workflow/skills/implementation-review-swarm/`
+- **ai-tools path:** `/Users/shravansunder/dev/ai-tools/plugins/shravan-dev-workflow/skills/review-implementation/`
 - **Plugin:** shravan-dev-workflow
-- **Last reviewed:** 2026-07-09
+- **Last reviewed:** 2026-08-27
+- **Renamed from:** `implementation-review-swarm` (retired in ai-tools). One parent-verified complete reviewer, not a named multi-lane swarm.
 
 ## Admired sources
 
 | Upstream repo (submodule) | Path inside submodule | What we borrowed | Do not copy |
 |---------------------------|----------------------|------------------|-------------|
-| Dimillian-Skills | review / bug-hunt swarm skills | bounded multi-lane review orchestration | Apple/UI-only review rituals |
+| Dimillian-Skills | review / bug-hunt swarm skills | bounded review orchestration and hunt posture | Apple/UI-only review rituals; forcing many parallel lanes |
 | curated-skills | PR toolkit agents; `codex adverserial/*` | material finding bar; false-green / silent-failure / type / test / comment lenses; stop-review gate | promoting entire curated catalogs as default workflow |
 | steipete-agent-scripts | deep review patterns | source-first deep review lenses | personal tool tree |
 | cursor-plugins | `pstack/skills/arena/` | graft/reject decision trails | Cursor-specific arena UX |

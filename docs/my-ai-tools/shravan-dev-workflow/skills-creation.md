@@ -2,7 +2,7 @@
 
 - **ai-tools path:** [`/Users/shravansunder/dev/ai-tools/plugins/shravan-dev-workflow/skills/skills-creation/`](file:///Users/shravansunder/dev/ai-tools/plugins/shravan-dev-workflow/skills/skills-creation/)
 - **Plugin:** shravan-dev-workflow
-- **Last reviewed:** 2026-07-09
+- **Last reviewed:** 2026-08-27
 
 ## Local admired skill paths
 
@@ -10,7 +10,7 @@
 
 - [getsentry-skills/skills/skill-writer/SKILL.md](../../../getsentry-skills/skills/skill-writer/SKILL.md) — Sentry’s full create/update workflow
 - [codex-curated-skills/skills/.system/skill-creator/SKILL.md](../../../codex-curated-skills/skills/.system/skill-creator/SKILL.md) — Codex’s canonical skill authoring guide
-- [mattpocock-skills/skills/productivity/writing-great-skills/SKILL.md](../../../mattpocock-skills/skills/productivity/writing-great-skills/SKILL.md) — Matt Pocock skill authoring vocabulary
+- [mattpocock-skills/skills/productivity/writing-for-agents/SKILL.md](../../../mattpocock-skills/skills/productivity/writing-for-agents/SKILL.md) — Matt Pocock skill authoring vocabulary (renamed from `writing-great-skills`)
 - [obra-superpowers/skills/writing-skills/SKILL.md](../../../obra-superpowers/skills/writing-skills/SKILL.md) — Superpowers pressure-first skill writing
 - [`~/.cursor/skills-cursor/create-skill/SKILL.md`](file:///Users/shravansunder/.cursor/skills-cursor/create-skill/SKILL.md) — Cursor built-in (not in this repo)
 
@@ -22,6 +22,7 @@
 
 - [cursor-plugins/pstack/skills/automate-me/SKILL.md](../../../cursor-plugins/pstack/skills/automate-me/SKILL.md) — turns your working style into a `-mode` skill via `create-skill`
 - [cursor-plugins/pstack/skills/reflect/SKILL.md](../../../cursor-plugins/pstack/skills/reflect/SKILL.md) — mines a session and routes learnings into skill edits via `create-skill`
+- [cursor-plugins/pstack/skills/create-verification-skill/SKILL.md](../../../cursor-plugins/pstack/skills/create-verification-skill/SKILL.md) — project-local prove-it-works skill generator (proof-surface inspiration)
 
 ### Plugin / companion scaffolding
 
@@ -41,10 +42,10 @@
 |---------------|------|------------------|-------------|
 | [getsentry-skills](../../repo-index/getsentry-skills.md) | [skills/skill-writer/](../../../getsentry-skills/skills/skill-writer/) | source/evidence model, SPEC maintenance, create/update workflow | Sentry-domain process |
 | [codex-curated-skills](../../repo-index/codex-curated-skills.md) | [skills/.system/skill-creator/](../../../codex-curated-skills/skills/.system/skill-creator/) | folder anatomy, `agents/openai.yaml`, validation scripts | treating scaffolding as authoring philosophy |
-| [mattpocock-skills](../../repo-index/mattpocock-skills.md) | [skills/productivity/writing-great-skills/](../../../mattpocock-skills/skills/productivity/writing-great-skills/) | predictability, invocation tradeoffs, trigger-only descriptions, information hierarchy, leading words, pruning | full prose, private glossary dependency |
+| [mattpocock-skills](../../repo-index/mattpocock-skills.md) | [skills/productivity/writing-for-agents/](../../../mattpocock-skills/skills/productivity/writing-for-agents/) | predictability, invocation tradeoffs, trigger-only descriptions, information hierarchy, leading words, pruning | full prose, private glossary dependency |
 | [obra-superpowers](../../repo-index/obra-superpowers.md) | [skills/writing-skills/](../../../obra-superpowers/skills/writing-skills/) | RED/GREEN/REFACTOR pressure-first skill writing, rationalization capture | personal directory assumptions, long tutorial body |
 | [Dimillian-Skills](../../repo-index/Dimillian-Skills.md) | [project-skill-audit/](../../../Dimillian-Skills/project-skill-audit/) | decide-what-to-create from project evidence, handoff to creator | Apple/UI-only audit rituals |
-| [cursor-plugins](../../repo-index/cursor-plugins.md) | [automate-me](../../../cursor-plugins/pstack/skills/automate-me/), [reflect](../../../cursor-plugins/pstack/skills/reflect/) | working-style → skill; session mining → skill edits | Cursor-only create-skill coupling as the only path |
+| [cursor-plugins](../../repo-index/cursor-plugins.md) | [automate-me](../../../cursor-plugins/pstack/skills/automate-me/), [reflect](../../../cursor-plugins/pstack/skills/reflect/), [create-verification-skill](../../../cursor-plugins/pstack/skills/create-verification-skill/) | working-style → skill; session mining → skill edits; prove-it-works skill generator | Cursor-only create-skill coupling as the only path |
 | [cursor-plugins](../../repo-index/cursor-plugins.md) | [create-plugin-scaffold](../../../cursor-plugins/create-plugin/skills/create-plugin-scaffold/), [review-plugin-submission](../../../cursor-plugins/create-plugin/skills/review-plugin-submission/) | plugin skill layout; marketplace frontmatter checks | Cursor marketplace process wholesale |
 | [codex-curated-skills](../../repo-index/codex-curated-skills.md) | [plugin-creator](../../../codex-curated-skills/skills/.system/plugin-creator/), [cli-creator](../../../codex-curated-skills/skills/.curated/cli-creator/) | plugin/CLI companion scaffolding | treating scaffolds as authoring philosophy |
 | [getsentry-skills](../../repo-index/getsentry-skills.md) | [skills/skill-scanner/](../../../getsentry-skills/skills/skill-scanner/) | security audit lens for skills | Sentry-only scanner assumptions |

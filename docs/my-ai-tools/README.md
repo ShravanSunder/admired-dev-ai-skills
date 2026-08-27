@@ -18,13 +18,13 @@ Start here when auditing or updating a skill in ai-tools. Follow links into subm
 
 | Workflow area | Useful upstream sources | Local skills |
 |---------------|-------------------------|--------------|
-| Discussion / mental models | pstack (cursor-plugins), Matt grilling/domain modeling, Addy interview/spec/doubt, Steipete owner briefs | [discuss-clarify-mental-models](shravan-dev-workflow/discuss-clarify-mental-models.md) |
-| Spec creation | pstack `how`, Addy source/spec-driven, Matt domain modeling | [spec-creation-swarm](shravan-dev-workflow/spec-creation-swarm.md) |
-| Plan creation | Obra `writing-plans`, pstack proof/boundary, Codex subagent guidance | [plan-creation-swarm](shravan-dev-workflow/plan-creation-swarm.md) |
-| Implementation execution | pstack `poteto-mode`, Obra `subagent-driven-development` | [implementation-execute-plan](shravan-dev-workflow/implementation-execute-plan.md) |
-| Review | Dimillian swarms, curated adversarial lenses, Steipete deep review | [implementation-review-swarm](shravan-dev-workflow/implementation-review-swarm.md), [spec-review-swarm](shravan-dev-workflow/spec-review-swarm.md), [plan-review-swarm](shravan-dev-workflow/plan-review-swarm.md) |
+| Discussion / mental models | pstack interrogate/show-me-your-work, Matt grilling, Addy interview-me, Obra brainstorming | [discuss-pathfinding](shravan-dev-workflow/discuss-pathfinding.md), [discuss-clarify-mental-models](shravan-dev-workflow/discuss-clarify-mental-models.md) |
+| Spec / program design | pstack `why`/`how`/`architect`, Addy spec/source-driven, Matt domain modeling | [spec-design](shravan-dev-workflow/spec-design.md), [program-design](shravan-dev-workflow/program-design.md), [orchestrator-design](shravan-dev-workflow/orchestrator-design.md) |
+| Plan creation | Obra `writing-plans`, pstack prove-it-works / boundary, Codex subagent guidance | [plan-implementation](shravan-dev-workflow/plan-implementation.md) |
+| Implementation execution | pstack `poteto-mode`, Obra `subagent-driven-development` | [implement-plan](shravan-dev-workflow/implement-plan.md) |
+| Review | Dimillian swarms, curated adversarial lenses, Steipete deep review, pstack arena | [review-implementation](shravan-dev-workflow/review-implementation.md), [spec-program-review](shravan-dev-workflow/spec-program-review.md) |
 | Security | Codex curated security subset | [ops-security-review](shravan-dev-workflow/ops-security-review.md) |
-| Skill authoring / audit | Matt writing-great-skills, Obra writing-skills, Sentry skill-writer, Codex skill-creator, pstack routing | [skills-creation](shravan-dev-workflow/skills-creation.md), [skill-audit](shravan-dev-workflow/skill-audit.md) |
+| Skill authoring / audit | Matt writing-for-agents, Obra writing-skills, Sentry skill-writer, Codex skill-creator, pstack automate-me/reflect | [skills-creation](shravan-dev-workflow/skills-creation.md), [skill-audit](shravan-dev-workflow/skill-audit.md) |
 
 ## Rules
 

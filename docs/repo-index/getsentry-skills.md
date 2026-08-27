@@ -1,8 +1,8 @@
 # getsentry-skills
 
 - **Upstream:** https://github.com/getsentry/skills
-- **Pinned SHA:** `5a64b36c62d042d3981b7937d9d6ca7bd1753b9a` (as of 2026-07-09)
-- **Last reviewed:** 2026-07-09
+- **Pinned SHA:** `c2f99a5b04b4cd992ec3022d7c2c3e23e938d241` (as of 2026-08-27)
+- **Last reviewed:** 2026-08-27
 
 ## Skills / files I care about
 

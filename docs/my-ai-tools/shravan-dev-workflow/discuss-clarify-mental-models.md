@@ -2,7 +2,7 @@
 
 - **ai-tools path:** `/Users/shravansunder/dev/ai-tools/plugins/shravan-dev-workflow/skills/discuss-clarify-mental-models/`
 - **Plugin:** shravan-dev-workflow
-- **Last reviewed:** 2026-07-09
+- **Last reviewed:** 2026-08-27
 
 ## Admired sources
 

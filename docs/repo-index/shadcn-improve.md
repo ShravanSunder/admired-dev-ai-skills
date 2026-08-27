@@ -1,8 +1,8 @@
 # shadcn-improve
 
 - **Upstream:** https://github.com/shadcn/improve
-- **Pinned SHA:** `03369ee6d7cafbfcecc4346539b05b3dc0a603bb` (as of 2026-07-09)
-- **Last reviewed:** 2026-07-09
+- **Pinned SHA:** `03369ee6d7cafbfcecc4346539b05b3dc0a603bb` (as of 2026-08-27)
+- **Last reviewed:** 2026-08-27
 
 ## Skills / files I care about
 

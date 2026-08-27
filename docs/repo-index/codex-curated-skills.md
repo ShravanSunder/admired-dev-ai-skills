@@ -1,8 +1,8 @@
 # codex-curated-skills
 
 - **Upstream:** https://github.com/openai/skills
-- **Pinned SHA:** `49f948faa9258a0c61caceaf225e179651397431` (as of 2026-07-09)
-- **Last reviewed:** 2026-07-09
+- **Pinned SHA:** `49f948faa9258a0c61caceaf225e179651397431` (as of 2026-08-27)
+- **Last reviewed:** 2026-08-27
 
 ## Skills / files I care about
 
@@ -10,7 +10,7 @@
 |------|-----|--------------------|
 | Security subset (threat modeling, security best practices, ownership map) | Security-heavy work routing | [ops-security-review](../my-ai-tools/shravan-dev-workflow/ops-security-review.md) |
 | `skills/.system/skill-creator/` | Folder anatomy, `agents/openai.yaml`, validation scripts | [skills-creation](../my-ai-tools/shravan-dev-workflow/skills-creation.md) |
-| Codex subagent / platform scaffolding guidance | Plan/execution harness fit | [plan-creation-swarm](../my-ai-tools/shravan-dev-workflow/plan-creation-swarm.md) (platform lens) |
+| Codex subagent / platform scaffolding guidance | Plan/execution harness fit | [plan-implementation](../my-ai-tools/shravan-dev-workflow/plan-implementation.md) (platform lens) |
 
 ## Preserve / avoid
 

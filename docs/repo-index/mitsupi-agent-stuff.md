@@ -1,8 +1,8 @@
 # mitsupi-agent-stuff
 
 - **Upstream:** https://github.com/mitsuhiko/agent-stuff
-- **Pinned SHA:** `c77d49797ad3fb78888e5b002ae606a93777c6b1` (as of 2026-07-09)
-- **Last reviewed:** 2026-07-09
+- **Pinned SHA:** `13bc8f87970bec8830aab0f1c0487d35aa7c0917` (as of 2026-08-27)
+- **Last reviewed:** 2026-08-27
 
 ## Skills / files I care about
 

@@ -1,17 +1,17 @@
 # obra-superpowers
 
 - **Upstream:** https://github.com/obra/superpowers
-- **Pinned SHA:** `d884ae04edebef577e82ff7c4e143debd0bbec99` (as of 2026-07-09)
-- **Last reviewed:** 2026-07-09
+- **Pinned SHA:** `b36e0829c6d0140e93cfef2ca599b1b07d4a7797` (as of 2026-08-27)
+- **Last reviewed:** 2026-08-27
 
 ## Skills / files I care about
 
 | Path | Why | Used by (ai-tools) |
 |------|-----|--------------------|
-| `skills/writing-plans/` | DAG-shaped plans with proof gates | [plan-creation-swarm](../my-ai-tools/shravan-dev-workflow/plan-creation-swarm.md) |
-| `skills/subagent-driven-development/` | Parent-owned subagent lifecycle | [implementation-execute-plan](../my-ai-tools/shravan-dev-workflow/implementation-execute-plan.md) |
+| `skills/writing-plans/` | DAG-shaped plans with proof gates | [plan-implementation](../my-ai-tools/shravan-dev-workflow/plan-implementation.md) |
+| `skills/subagent-driven-development/` | Parent-owned subagent lifecycle | [implement-plan](../my-ai-tools/shravan-dev-workflow/implement-plan.md), [manage-agents](../my-ai-tools/shravan-dev-workflow/manage-agents.md) |
 | `skills/writing-skills/` | RED/GREEN/REFACTOR pressure-first skill writing, rationalization traps | [skills-creation](../my-ai-tools/shravan-dev-workflow/skills-creation.md) |
-| `skills/brainstorming/` | Design-before-code process skill | [discuss-clarify-mental-models](../my-ai-tools/shravan-dev-workflow/discuss-clarify-mental-models.md) (process inspiration) |
+| `skills/brainstorming/` | Three-path spike/bounded/full router; design-before-code | [discuss-pathfinding](../my-ai-tools/shravan-dev-workflow/discuss-pathfinding.md), [discuss-clarify-mental-models](../my-ai-tools/shravan-dev-workflow/discuss-clarify-mental-models.md) (process inspiration) |
 | `skills/using-superpowers/` | Skill invocation discipline | Reference only; local routes through `skills-creation` / plugin skills |
 
 ## Preserve / avoid
@@ -21,4 +21,4 @@
 
 ## Open gaps
 
-- [ ] Diff `writing-skills` / `writing-plans` on next major tag after v6.1.1
+- [x] Diff `writing-skills` / `writing-plans` through v6.3.0 — recap sections dropped; SDD/brainstorming were the real diffs (see 2026-08-27 changelog)
