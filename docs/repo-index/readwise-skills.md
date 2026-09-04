@@ -1,8 +1,8 @@
 # readwise-skills
 
 - **Upstream:** https://github.com/readwiseio/readwise-skills
-- **Pinned SHA:** `2d1ce9627c611d24f510dfc2e05a123fa509d2f6` (as of 2026-08-27)
-- **Last reviewed:** 2026-08-27
+- **Pinned SHA:** `2d1ce9627c611d24f510dfc2e05a123fa509d2f6` (as of 2026-08-30)
+- **Last reviewed:** 2026-08-30
 
 ## Skills / files I care about
 

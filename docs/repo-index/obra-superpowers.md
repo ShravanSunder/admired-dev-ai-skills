@@ -1,8 +1,8 @@
 # obra-superpowers
 
 - **Upstream:** https://github.com/obra/superpowers
-- **Pinned SHA:** `b36e0829c6d0140e93cfef2ca599b1b07d4a7797` (as of 2026-08-27)
-- **Last reviewed:** 2026-08-27
+- **Pinned SHA:** `b36e0829c6d0140e93cfef2ca599b1b07d4a7797` (as of 2026-08-30)
+- **Last reviewed:** 2026-08-30
 
 ## Skills / files I care about
 

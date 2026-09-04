@@ -1,8 +1,8 @@
 # mattpocock-skills
 
 - **Upstream:** https://github.com/mattpocock/skills
-- **Pinned SHA:** `6654f6b60cd9d5be8b54c6fafe44346dabeb3b76` (as of 2026-08-27)
-- **Last reviewed:** 2026-08-27
+- **Pinned SHA:** `6654f6b60cd9d5be8b54c6fafe44346dabeb3b76` (as of 2026-08-30)
+- **Last reviewed:** 2026-08-30
 
 ## Skills / files I care about
 

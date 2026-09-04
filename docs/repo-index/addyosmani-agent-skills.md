@@ -1,8 +1,8 @@
 # addyosmani-agent-skills
 
 - **Upstream:** https://github.com/addyosmani/agent-skills
-- **Pinned SHA:** `36fc35c13b28e4c58320eb6db7a6eee843453b47` (as of 2026-08-27)
-- **Last reviewed:** 2026-08-27
+- **Pinned SHA:** `d2c37ef6225dd8726cdd369a8030307f48592d26` (as of 2026-08-30)
+- **Last reviewed:** 2026-08-30
 
 ## Skills / files I care about
 
@@ -20,3 +20,4 @@
 ## Open gaps
 
 - [x] Mapped exact skill directory names (2026-08-27)
+- [ ] Decide whether `skills/constraint-driven-development/` is admired prior art for `spec-design` / `discuss-pathfinding` (added upstream 2026-08-30; not mapped yet)

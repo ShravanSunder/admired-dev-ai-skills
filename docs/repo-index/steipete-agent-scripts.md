@@ -1,8 +1,8 @@
 # steipete-agent-scripts
 
 - **Upstream:** https://github.com/steipete/agent-scripts
-- **Pinned SHA:** `168f22313cecc5c173421d1b3a8c1911812c0d2a` (as of 2026-08-27)
-- **Last reviewed:** 2026-08-27
+- **Pinned SHA:** `3f9e884325f219ae459daeba1d825da6f3f7ebd8` (as of 2026-08-30)
+- **Last reviewed:** 2026-08-30
 
 ## Skills / files I care about
 

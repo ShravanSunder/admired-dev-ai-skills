@@ -1,8 +1,8 @@
 # codex-curated-skills
 
 - **Upstream:** https://github.com/openai/skills
-- **Pinned SHA:** `49f948faa9258a0c61caceaf225e179651397431` (as of 2026-08-27)
-- **Last reviewed:** 2026-08-27
+- **Pinned SHA:** `49f948faa9258a0c61caceaf225e179651397431` (as of 2026-08-30)
+- **Last reviewed:** 2026-08-30
 
 ## Skills / files I care about
 

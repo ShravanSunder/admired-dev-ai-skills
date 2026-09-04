@@ -1,8 +1,8 @@
 # cursor-plugins
 
 - **Upstream:** https://github.com/cursor/plugins
-- **Pinned SHA:** `fdf357fae76feff7e5f2e5aaff57f99f644b55f8` (as of 2026-08-27)
-- **Last reviewed:** 2026-08-27
+- **Pinned SHA:** `68836ddaf5697224520f1847d90cdb90ca8babaa` (as of 2026-08-30)
+- **Last reviewed:** 2026-08-30
 - **Focus subtree:** `pstack/` (poteto / pstack skills). Ignore third-party MCP plugins in this repo.
 
 Local consumer is current `ShravanSunder/ai-tools` `plugins/shravan-dev-workflow/` (not the 2026-07 swarm skill names).

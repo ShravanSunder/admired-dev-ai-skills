@@ -1,8 +1,8 @@
 # Dimillian-Skills
 
 - **Upstream:** https://github.com/Dimillian/Skills
-- **Pinned SHA:** `05ba982bfeb0d77d3c97d4542b0ee15034d05f84` (as of 2026-08-27)
-- **Last reviewed:** 2026-08-27
+- **Pinned SHA:** `05ba982bfeb0d77d3c97d4542b0ee15034d05f84` (as of 2026-08-30)
+- **Last reviewed:** 2026-08-30
 
 ## Skills / files I care about
 

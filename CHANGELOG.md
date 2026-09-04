@@ -11,6 +11,12 @@ full **From** / **To** commit hashes for cheap version comparison.
 - Added submodule `dzhng-skills` (`https://github.com/dzhng/skills`) pinned at `3631529b7305eec8dd08b3a827f4d8c16342a29a`
 - Dual index + initial-pin date file; mapped distinctive paths into discuss / spec / plan / implement / review / handoff / peekaboo / skills-creation
 
+## 2026-08-30 — bulk origin HEAD sync
+
+- Bumped `addyosmani-agent-skills` `36fc35c` → `d2c37ef`, `cursor-plugins` `fdf357f` → `68836dd`, `steipete-agent-scripts` `168f223` → `3f9e884`
+- Review-only (From == To) for `obra-superpowers`, `mattpocock-skills`, `getsentry-skills`, `Dimillian-Skills`, `codex-curated-skills`, `mitsupi-agent-stuff`, `readwise-skills`, `shadcn-improve`
+- Date files: `docs/repo-index-changelog/<name>/2026-08-30.md`; no `docs/my-ai-tools/` remaps
+
 ## 2026-08-27 — bulk submodule sync + ai-tools skill rename
 
 - Bumped or reviewed all 11 upstream submodules; date-pinned From/To files under `docs/repo-index-changelog/<name>/2026-08-27.md`
