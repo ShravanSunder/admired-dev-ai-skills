@@ -12,8 +12,10 @@
 | cursor-plugins | `pstack/skills/poteto-mode/` | playbook routing, verified iterations, parent-owned subagents | Cursor commands, sticky-mode reminder text, babysit/shipping/watch-pr/autopilot playbooks, blanket autonomy |
 | cursor-plugins | `pstack/skills/principle-prove-it-works/` | prove against the real artifact, not a proxy | Cursor control-skill / deslop coupling |
 | obra-superpowers | `skills/subagent-driven-development/` | parent-owned subagent lifecycle, evidence verification | personal directory assumptions |
+| dzhng-skills | `skills/engineering/implement-spec/` | living spec re-slice mid-build; visual CHANGE needs pixel proof + unprimed critique | unattended multi-day `/goal` loop; Codex-as-implementer wrapper |
 
 ## Reverse links
 
 - [cursor-plugins](../../repo-index/cursor-plugins.md)
 - [obra-superpowers](../../repo-index/obra-superpowers.md)
+- [dzhng-skills](../../repo-index/dzhng-skills.md)

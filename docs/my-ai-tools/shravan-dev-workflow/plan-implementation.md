@@ -14,6 +14,7 @@
 | cursor-plugins | `pstack/skills/poteto-mode/playbooks/multi-phase-plan.md` | verified-unit sequencing inspiration | Cursor `check-plan.mjs` / orch scripts |
 | codex-curated-skills | Codex subagent / platform guidance | harness-fit for parallel lanes | treating scaffolding as planning philosophy |
 | Dimillian-Skills | batch refactor orchestration | parallel bounded work lanes | Apple/UI-specific orchestration |
+| dzhng-skills | `skills/engineering/write-spec/` | slice at seams; recursive re-slice when fog remains | defaulting to hard cutovers / no migrations; HTML visualization workbenches |
 
 ## Reverse links
 
@@ -21,3 +22,4 @@
 - [cursor-plugins](../../repo-index/cursor-plugins.md)
 - [codex-curated-skills](../../repo-index/codex-curated-skills.md)
 - [Dimillian-Skills](../../repo-index/Dimillian-Skills.md)
+- [dzhng-skills](../../repo-index/dzhng-skills.md)

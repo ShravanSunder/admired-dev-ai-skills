@@ -200,7 +200,7 @@ When you adapt a mechanic into `/Users/shravansunder/dev/ai-tools/`:
 
 - **On demand:** bump when a skill-audit or authoring session needs a newer upstream.
 - **Periodic:** when reviewing a workflow area, update the 1–3 relevant repos, then run the bump checklist only for repos with meaningful cared-about diffs.
-- **Do not** bulk-bump all 11 repos without reading cared-about paths — empty changelog noise is worse than a stale pin.
+- **Do not** bulk-bump all upstream repos without reading cared-about paths — empty changelog noise is worse than a stale pin.
 
 ### Definition of done for maintenance work
 

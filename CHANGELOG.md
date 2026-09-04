@@ -6,6 +6,11 @@ Per-upstream bump/review history lives in date-pinned files under
 [`docs/repo-index-changelog/`](docs/repo-index-changelog/) — each entry stores
 full **From** / **To** commit hashes for cheap version comparison.
 
+## 2026-09-03 — add dzhng-skills
+
+- Added submodule `dzhng-skills` (`https://github.com/dzhng/skills`) pinned at `3631529b7305eec8dd08b3a827f4d8c16342a29a`
+- Dual index + initial-pin date file; mapped distinctive paths into discuss / spec / plan / implement / review / handoff / peekaboo / skills-creation
+
 ## 2026-08-27 — bulk submodule sync + ai-tools skill rename
 
 - Bumped or reviewed all 11 upstream submodules; date-pinned From/To files under `docs/repo-index-changelog/<name>/2026-08-27.md`

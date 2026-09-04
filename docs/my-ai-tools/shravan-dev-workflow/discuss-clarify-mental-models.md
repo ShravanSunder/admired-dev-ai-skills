@@ -13,6 +13,7 @@
 | addyosmani-agent-skills | interview / idea / doubt patterns | lifecycle taxonomy for reconvergence | wholesale Addy workflow |
 | steipete-agent-scripts | owner-brief / maintainer patterns | owner-facing clarification briefs | personal orchestration tree |
 | obra-superpowers | `skills/brainstorming/` | design-before-code process inspiration | Superpowers as the discussion skill |
+| dzhng-skills | `skills/engineering/explore-unknowns/` | unknown-knowns / unknown-unknowns sweep; reacting beats imagining | treating the quadrant walk as a replacement for drift repair |
 
 ## Reverse links
 
@@ -21,3 +22,4 @@
 - [addyosmani-agent-skills](../../repo-index/addyosmani-agent-skills.md)
 - [steipete-agent-scripts](../../repo-index/steipete-agent-scripts.md)
 - [obra-superpowers](../../repo-index/obra-superpowers.md)
+- [dzhng-skills](../../repo-index/dzhng-skills.md)

@@ -31,3 +31,6 @@
 [submodule "steipete-agent-scripts"]
 	path = steipete-agent-scripts
 	url = https://github.com/steipete/agent-scripts.git
+[submodule "dzhng-skills"]
+	path = dzhng-skills
+	url = https://github.com/dzhng/skills.git

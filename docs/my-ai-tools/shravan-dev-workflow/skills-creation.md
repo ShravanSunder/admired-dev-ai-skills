@@ -51,6 +51,7 @@
 | [getsentry-skills](../../repo-index/getsentry-skills.md) | [skills/skill-scanner/](../../../getsentry-skills/skills/skill-scanner/) | security audit lens for skills | Sentry-only scanner assumptions |
 | [steipete-agent-scripts](../../repo-index/steipete-agent-scripts.md) | [skills/skill-cleaner/](../../../steipete-agent-scripts/skills/skill-cleaner/) | budget/duplicates/usage cleanup | personal machine paths |
 | (outside this repo) | [`~/.cursor/skills-cursor/create-skill/`](file:///Users/shravansunder/.cursor/skills-cursor/create-skill/) | Cursor built-in create-skill mechanics | assuming Cursor paths in portable skills |
+| [dzhng-skills](../../repo-index/dzhng-skills.md) | [skills/authoring/write-skills/](../../../dzhng-skills/skills/authoring/write-skills/), [skills/authoring/eval-skills/](../../../dzhng-skills/skills/authoring/eval-skills/) | failure-mode pruning; blind golden-case runs + separate judge | eval without a real SKILL.md, golden case, and bar |
 
 ## Reverse links
 
@@ -61,6 +62,7 @@
 - [Dimillian-Skills](../../repo-index/Dimillian-Skills.md)
 - [cursor-plugins](../../repo-index/cursor-plugins.md)
 - [steipete-agent-scripts](../../repo-index/steipete-agent-scripts.md)
+- [dzhng-skills](../../repo-index/dzhng-skills.md)
 
 ## Provenance already in ai-tools
 

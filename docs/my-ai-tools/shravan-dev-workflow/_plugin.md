@@ -18,6 +18,7 @@ Current local skills (ai-tools master): `discuss-pathfinding`, `discuss-clarify-
 | [curated-skills](../../repo-index/curated-skills.md) | material finding bar; false-green / silent-failure lenses | Broad curated catalogs as general workflow |
 | [codex-curated-skills](../../repo-index/codex-curated-skills.md) | security subset; skill-creator anatomy | Diluting normal review with security-heavy process |
 | [obra-superpowers](../../repo-index/obra-superpowers.md) | writing-plans, subagent-driven-development, writing-skills, brainstorming three-path | Personal dir assumptions; Superpowers as normal authoring route |
+| [dzhng-skills](../../repo-index/dzhng-skills.md) | explore-unknowns, write-spec / implement-spec, audit-choices, visual less-wrong gates, eval-skills | Unattended factory loop; Codex/Claude wrappers; marketing-pages / renderer |
 
 OpenClaw ACPX / ACP is used for structured cross-agent review transport in ai-tools; it is **not** mirrored as a submodule here. Do not use it for normal discussion or implementation ownership.
 

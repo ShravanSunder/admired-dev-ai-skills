@@ -12,9 +12,11 @@
 | cursor-plugins | `pstack/skills/why/` | source coverage and confidence calibration for authorized meaning | Cursor MCP category wiring as the only evidence path |
 | addyosmani-agent-skills | source / spec-driven patterns | keep current vs target state separate; source-backed specs | wholesale Addy workflow |
 | mattpocock-skills | domain modeling / `to-spec` / `to-tickets` | domain model and issue decomposition | discussion as substitute for specs |
+| dzhng-skills | `skills/engineering/write-spec/` | independently verifiable slices at API seams; playable checkpoints | `specs/<feature>/` layout and unattended factory loop |
 
 ## Reverse links
 
 - [cursor-plugins](../../repo-index/cursor-plugins.md)
 - [addyosmani-agent-skills](../../repo-index/addyosmani-agent-skills.md)
 - [mattpocock-skills](../../repo-index/mattpocock-skills.md)
+- [dzhng-skills](../../repo-index/dzhng-skills.md)

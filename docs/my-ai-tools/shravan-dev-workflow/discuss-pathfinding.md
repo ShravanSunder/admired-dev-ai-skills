@@ -13,6 +13,7 @@
 | mattpocock-skills | grilling / domain modeling | interview and challenge patterns (`grill-me`) | discussion as substitute for source-backed specs |
 | addyosmani-agent-skills | interview / idea patterns | lifecycle taxonomy for elicitation vs authoring | wholesale Addy workflow |
 | obra-superpowers | `skills/brainstorming/` | design-before-code elicitation inspiration | Superpowers as the pathfinding skill |
+| dzhng-skills | `skills/engineering/explore-unknowns/` | four-quadrant map; reactable artifacts; close items as spec-ready decisions | walking every request through all five stages; HTML mock factory as the only elicit path |
 
 ## Reverse links
 
@@ -20,3 +21,4 @@
 - [mattpocock-skills](../../repo-index/mattpocock-skills.md)
 - [addyosmani-agent-skills](../../repo-index/addyosmani-agent-skills.md)
 - [obra-superpowers](../../repo-index/obra-superpowers.md)
+- [dzhng-skills](../../repo-index/dzhng-skills.md)

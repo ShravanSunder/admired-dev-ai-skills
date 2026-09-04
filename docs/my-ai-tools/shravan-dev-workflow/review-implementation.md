@@ -13,6 +13,7 @@
 | curated-skills | PR toolkit agents; `codex adverserial/*` | material finding bar; false-green / silent-failure / type / test / comment lenses; stop-review gate | promoting entire curated catalogs as default workflow |
 | steipete-agent-scripts | deep review patterns | source-first deep review lenses | personal tool tree |
 | cursor-plugins | `pstack/skills/arena/` | graft/reject decision trails | Cursor-specific arena UX |
+| dzhng-skills | `skills/engineering/audit-choices/` | choices ledger as the scalable review surface; sound/unsound/needs-user + confidence rank | treating the ledger as a substitute for reading material diffs |
 
 OpenClaw ACPX remains external review transport in ai-tools (not a submodule here); parent reducer verifies candidate findings.
 
@@ -22,3 +23,4 @@ OpenClaw ACPX remains external review transport in ai-tools (not a submodule her
 - [curated-skills](../../repo-index/curated-skills.md)
 - [steipete-agent-scripts](../../repo-index/steipete-agent-scripts.md)
 - [cursor-plugins](../../repo-index/cursor-plugins.md)
+- [dzhng-skills](../../repo-index/dzhng-skills.md)

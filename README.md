@@ -59,6 +59,7 @@ Then fill Action / Paths reviewed in the new date file, refresh `docs/my-ai-tool
 | `codex-curated-skills` | https://github.com/openai/skills |
 | `cursor-plugins` | https://github.com/cursor/plugins |
 | `Dimillian-Skills` | https://github.com/Dimillian/Skills |
+| `dzhng-skills` | https://github.com/dzhng/skills |
 | `getsentry-skills` | https://github.com/getsentry/skills |
 | `mattpocock-skills` | https://github.com/mattpocock/skills |
 | `mitsupi-agent-stuff` | https://github.com/mitsuhiko/agent-stuff |
