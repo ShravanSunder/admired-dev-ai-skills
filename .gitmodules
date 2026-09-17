@@ -34,3 +34,9 @@
 [submodule "dzhng-skills"]
 	path = dzhng-skills
 	url = https://github.com/dzhng/skills.git
+[submodule "humanlayer-skills"]
+	path = humanlayer-skills
+	url = https://github.com/humanlayer/skills.git
+[submodule "blader-humanizer"]
+	path = blader-humanizer
+	url = https://github.com/blader/humanizer.git

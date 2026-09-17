@@ -19,10 +19,13 @@ Start here when auditing or updating a skill in ai-tools. Follow links into subm
 | Workflow area | Useful upstream sources | Local skills |
 |---------------|-------------------------|--------------|
 | Discussion / mental models | pstack interrogate/show-me-your-work, Matt grilling, Addy interview-me, Obra brainstorming, dzhng explore-unknowns | [discuss-pathfinding](shravan-dev-workflow/discuss-pathfinding.md), [discuss-clarify-mental-models](shravan-dev-workflow/discuss-clarify-mental-models.md) |
+| Presentation | humanlayer `show-me` smallest-view media menu | [tui-presentation](shravan-dev-workflow/tui-presentation.md), [presentation-webui](shravan-dev-workflow/presentation-webui.md) |
 | Spec / program design | pstack `why`/`how`/`architect`, Addy spec/source-driven, Matt domain modeling, dzhng write-spec | [spec-design](shravan-dev-workflow/spec-design.md), [program-design](shravan-dev-workflow/program-design.md), [orchestrator-design](shravan-dev-workflow/orchestrator-design.md) |
 | Plan creation | Obra `writing-plans`, pstack prove-it-works / boundary, Codex subagent guidance, dzhng write-spec seams | [plan-implementation](shravan-dev-workflow/plan-implementation.md) |
 | Implementation execution | pstack `poteto-mode`, Obra `subagent-driven-development`, dzhng implement-spec | [implement-plan](shravan-dev-workflow/implement-plan.md) |
 | Review | Dimillian swarms, curated adversarial lenses, Steipete deep review, pstack arena, dzhng audit-choices | [review-implementation](shravan-dev-workflow/review-implementation.md), [spec-program-review](shravan-dev-workflow/spec-program-review.md) |
+| PR wrap-up | Sentry `pr-writer`, humanlayer `visual-pr` | [implementation-pr-wrapup](shravan-dev-workflow/implementation-pr-wrapup.md) |
+| Prose / AI-tell cleanup | blader `humanizer` | none yet (index only) |
 | Security | Codex curated security subset | [ops-security-review](shravan-dev-workflow/ops-security-review.md) |
 | Skill authoring / audit | Matt writing-for-agents, Obra writing-skills, Sentry skill-writer, Codex skill-creator, pstack automate-me/reflect, dzhng eval-skills | [skills-creation](shravan-dev-workflow/skills-creation.md), [skill-audit](shravan-dev-workflow/skill-audit.md) |
 

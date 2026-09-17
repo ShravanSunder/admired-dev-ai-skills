@@ -6,6 +6,12 @@ Per-upstream bump/review history lives in date-pinned files under
 [`docs/repo-index-changelog/`](docs/repo-index-changelog/) — each entry stores
 full **From** / **To** commit hashes for cheap version comparison.
 
+## 2026-09-17 — add humanlayer-skills and blader-humanizer
+
+- Added submodule `humanlayer-skills` (`https://github.com/humanlayer/skills`) pinned at `ca7c8088db69e315a8b2deea43820270457f8f3c`
+- Added submodule `blader-humanizer` (`https://github.com/blader/humanizer`) pinned at `9862685f575c65a8247f90369951df1b3416e3d6`
+- Dual index + initial-pin date files; mapped `visual-pr` / `show-me` into PR wrap-up and presentation skills; humanizer indexed with no local skill yet
+
 ## 2026-09-03 — add dzhng-skills
 
 - Added submodule `dzhng-skills` (`https://github.com/dzhng/skills`) pinned at `3631529b7305eec8dd08b3a827f4d8c16342a29a`
